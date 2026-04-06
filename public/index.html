@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>РекламоЧист Pro</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <div class="page-glow"></div>
+
+  <header class="hero">
+    <div class="container hero-inner">
+      <div class="hero-copy">
+        <div class="eyebrow">Финальная версия сервиса</div>
+        <h1>РекламоЧист</h1>
+        <p>
+          Стильный сервис для проверки рекламных текстов на иностранные слова, англоязычные
+          маркетинговые фразы и латиницу. Внутри — словарь из 700+ популярных слов и 100+ фраз.
+        </p>
+        
+      </div>
+
+      <div class="hero-stats">
+        <div class="mini-card">
+          <strong id="dictCountHero">0+</strong>
+          <span>слов в словаре</span>
+        </div>
+        <div class="mini-card">
+          <strong id="phrasesCountHero">0+</strong>
+          <span>готовых фраз</span>
+        </div>
+        <div class="mini-card">
+          <strong>TXT</strong>
+          <span>загрузка файлов</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="dashboard-grid">
+      <div class="panel panel-large">
+        <div class="panel-head">
+          <div>
+            <h2>Проверка текста</h2>
+            <p>Вставьте рекламный текст,объявление или описание товара.</p>
+          </div>
+          <div class="head-actions">
+            <button id="exampleBtn" class="btn btn-soft">Заполнить пример</button>
+            <button id="clearBtn" class="btn btn-outline">Очистить</button>
+          </div>
+        </div>
+
+        <label class="label">Название проверки</label>
+        <input id="titleInput" class="input" type="text" placeholder="Например: Баннер для весенней акции" />
+
+        <label class="label">Текст рекламы</label>
+        <textarea id="textInput" class="input textarea" placeholder="Например: Special offer! Best price на new collection, free delivery и online booking."></textarea>
+
+        <div class="action-row">
+          <button id="checkBtn" class="btn btn-primary">Проверить текст</button>
+        </div>
+
+        <div class="upload-box">
+          <div class="upload-top">
+            <div>
+              <h3>Проверка TXT-файла</h3>
+              <p>Можно загрузить текстовый файл и получить отчет с подсветкой слов.</p>
+            </div>
+          </div>
+          <input id="fileInput" class="input file-input" type="file" accept=".txt" />
+          <button id="uploadBtn" class="btn btn-soft">Загрузить и проверить</button>
+        </div>
+      </div>
+
+      <div class="side-col">
+        <div class="panel">
+          <h2>Статистика</h2>
+          <div class="stats-grid">
+            <div class="stat-card">
+              <span>Всего отчетов</span>
+              <strong id="totalReports">0</strong>
+            </div>
+            <div class="stat-card">
+              <span>Высокий риск</span>
+              <strong id="highRisk">0</strong>
+            </div>
+            <div class="stat-card">
+              <span>Средний риск</span>
+              <strong id="mediumRisk">0</strong>
+            </div>
+            <div class="stat-card">
+              <span>Низкий риск</span>
+              <strong id="lowRisk">0</strong>
+            </div>
+          </div>
+
+          <div class="tag-block">
+            <h3>Частые слова</h3>
+            <div id="topWords" class="tag-list"></div>
+          </div>
+
+          <div class="tag-block">
+            <h3>Частые категории</h3>
+            <div id="topCategories" class="tag-list"></div>
+          </div>
+        </div>
+
+        <div class="panel">
+          <h2>История проверок</h2>
+          <div id="historyList" class="history-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="resultSection" class="panel hidden">
+      <div class="result-header">
+        <div>
+          <div class="eyebrow">Отчет проверки</div>
+          <h2 id="resultTitle">Результат</h2>
+          <p id="resultMeta" class="muted"></p>
+        </div>
+        <button id="downloadBtn" class="btn btn-soft">Скачать отчет</button>
+      </div>
+
+      <div class="result-summary">
+        <div class="summary-card">
+          <span>Уровень риска</span>
+          <strong id="riskLabel">—</strong>
+        </div>
+        <div class="summary-card">
+          <span>Слов в тексте</span>
+          <strong id="wordCount">0</strong>
+        </div>
+        <div class="summary-card">
+          <span>Совпадений</span>
+          <strong id="matchesCount">0</strong>
+        </div>
+        <div class="summary-card">
+          <span>Фразовых совпадений</span>
+          <strong id="phraseMatches">0</strong>
+        </div>
+      </div>
+
+      <div class="result-grid">
+        <div class="panel subpanel">
+          <h3>Текст с выделением</h3>
+          <div id="highlightedText" class="highlight-box"></div>
+        </div>
+        <div class="panel subpanel">
+          <h3>Найденные слова</h3>
+          <div id="matchesList" class="matches-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="dictionary-section">
+      <div class="section-title">
+        <div>
+          <div class="eyebrow">Встроенный словарь</div>
+          <h2>Справочник маркетинговых слов и фраз</h2>
+        </div>
+        <div class="dictionary-badges">
+          <span id="dictionaryCountBadge">0 слов</span>
+          <span id="phrasesCountBadge">0 фраз</span>
+        </div>
+      </div>
+
+      <div class="dictionary-tools">
+        <input id="dictionarySearch" class="input" type="text" placeholder="Поиск по словарю..." />
+        <div class="toggle-row">
+          <button id="showWordsBtn" class="btn btn-primary small-btn">Слова</button>
+          <button id="showPhrasesBtn" class="btn btn-outline small-btn">Фразы</button>
+        </div>
+      </div>
+
+      <div id="dictionaryList" class="dictionary-grid"></div>
+    </section>
+  </main>
+
+  <script src="/script.js"></script>
+</body>
+</html>

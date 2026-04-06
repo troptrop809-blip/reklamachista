@@ -1,0 +1,1729 @@
+[
+  {
+    "id": 1775487125139,
+    "title": "store",
+    "text": "store",
+    "highlightedText": "<mark class=\"mark-known\">store</mark>",
+    "checkedAt": "2026-04-06T14:52:05.138Z",
+    "riskLabel": "Низкий",
+    "score": 3,
+    "totalMatches": 1,
+    "phraseMatches": 0,
+    "wordCount": 1,
+    "matches": [
+      {
+        "type": "word",
+        "original": "store",
+        "translation": "магазин",
+        "category": "Продажи и ecommerce",
+        "risk": "high",
+        "description": "Слово найдено в словаре маркетинговых и рекламных терминов.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Продажи и ecommerce",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775487100729,
+    "title": "stok",
+    "text": "stok",
+    "highlightedText": "<mark class=\"mark-unknown\">stok</mark>",
+    "checkedAt": "2026-04-06T14:51:40.728Z",
+    "riskLabel": "Низкий",
+    "score": 2,
+    "totalMatches": 1,
+    "phraseMatches": 0,
+    "wordCount": 1,
+    "matches": [
+      {
+        "type": "word",
+        "original": "stok",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775486440929,
+    "title": "s",
+    "text": "cash",
+    "highlightedText": "<mark class=\"mark-unknown\">cash</mark>",
+    "checkedAt": "2026-04-06T14:40:40.928Z",
+    "riskLabel": "Низкий",
+    "score": 2,
+    "totalMatches": 1,
+    "phraseMatches": 0,
+    "wordCount": 1,
+    "matches": [
+      {
+        "type": "word",
+        "original": "cash",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775486424280,
+    "title": "s",
+    "text": "mony",
+    "highlightedText": "<mark class=\"mark-unknown\">mony</mark>",
+    "checkedAt": "2026-04-06T14:40:24.280Z",
+    "riskLabel": "Низкий",
+    "score": 2,
+    "totalMatches": 1,
+    "phraseMatches": 0,
+    "wordCount": 1,
+    "matches": [
+      {
+        "type": "word",
+        "original": "mony",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775486407144,
+    "title": "s",
+    "text": "flowerstok",
+    "highlightedText": "<mark class=\"mark-unknown\">flowerstok</mark>",
+    "checkedAt": "2026-04-06T14:40:07.143Z",
+    "riskLabel": "Низкий",
+    "score": 2,
+    "totalMatches": 1,
+    "phraseMatches": 0,
+    "wordCount": 1,
+    "matches": [
+      {
+        "type": "word",
+        "original": "flowerstok",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775486390672,
+    "title": "s",
+    "text": "flower stock",
+    "highlightedText": "<mark class=\"mark-unknown\">flower</mark> <mark class=\"mark-known\">stock</mark>",
+    "checkedAt": "2026-04-06T14:39:50.672Z",
+    "riskLabel": "Низкий",
+    "score": 5,
+    "totalMatches": 2,
+    "phraseMatches": 0,
+    "wordCount": 2,
+    "matches": [
+      {
+        "type": "word",
+        "original": "flower",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "stock",
+        "translation": "запас / наличие",
+        "category": "Продажи и ecommerce",
+        "risk": "high",
+        "description": "Слово найдено в словаре маркетинговых и рекламных терминов.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 1
+      },
+      {
+        "category": "Продажи и ecommerce",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775486376036,
+    "title": "s",
+    "text": "flowershop",
+    "highlightedText": "<mark class=\"mark-unknown\">flowershop</mark>",
+    "checkedAt": "2026-04-06T14:39:36.035Z",
+    "riskLabel": "Низкий",
+    "score": 2,
+    "totalMatches": 1,
+    "phraseMatches": 0,
+    "wordCount": 1,
+    "matches": [
+      {
+        "type": "word",
+        "original": "flowershop",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775486365683,
+    "title": "s",
+    "text": "flower shop",
+    "highlightedText": "<mark class=\"mark-unknown\">flower</mark> <mark class=\"mark-known\">shop</mark>",
+    "checkedAt": "2026-04-06T14:39:25.682Z",
+    "riskLabel": "Низкий",
+    "score": 5,
+    "totalMatches": 2,
+    "phraseMatches": 0,
+    "wordCount": 2,
+    "matches": [
+      {
+        "type": "word",
+        "original": "flower",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "shop",
+        "translation": "магазин",
+        "category": "Продажи и ecommerce",
+        "risk": "high",
+        "description": "Слово найдено в словаре маркетинговых и рекламных терминов.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 1
+      },
+      {
+        "category": "Продажи и ecommerce",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775486346907,
+    "title": "s",
+    "text": "strawberrystok",
+    "highlightedText": "<mark class=\"mark-unknown\">strawberrystok</mark>",
+    "checkedAt": "2026-04-06T14:39:06.906Z",
+    "riskLabel": "Низкий",
+    "score": 2,
+    "totalMatches": 1,
+    "phraseMatches": 0,
+    "wordCount": 1,
+    "matches": [
+      {
+        "type": "word",
+        "original": "strawberrystok",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775486341358,
+    "title": "s",
+    "text": "strawberry stok",
+    "highlightedText": "<mark class=\"mark-unknown\">strawberry</mark> <mark class=\"mark-unknown\">stok</mark>",
+    "checkedAt": "2026-04-06T14:39:01.357Z",
+    "riskLabel": "Низкий",
+    "score": 4,
+    "totalMatches": 2,
+    "phraseMatches": 0,
+    "wordCount": 2,
+    "matches": [
+      {
+        "type": "word",
+        "original": "strawberry",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "stok",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": 1775486321529,
+    "title": "s",
+    "text": "strawberry shop",
+    "highlightedText": "<mark class=\"mark-unknown\">strawberry</mark> <mark class=\"mark-known\">shop</mark>",
+    "checkedAt": "2026-04-06T14:38:41.528Z",
+    "riskLabel": "Низкий",
+    "score": 5,
+    "totalMatches": 2,
+    "phraseMatches": 0,
+    "wordCount": 2,
+    "matches": [
+      {
+        "type": "word",
+        "original": "strawberry",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "shop",
+        "translation": "магазин",
+        "category": "Продажи и ecommerce",
+        "risk": "high",
+        "description": "Слово найдено в словаре маркетинговых и рекламных терминов.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 1
+      },
+      {
+        "category": "Продажи и ecommerce",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775486298100,
+    "title": "s",
+    "text": "ckookie shop",
+    "highlightedText": "<mark class=\"mark-unknown\">ckookie</mark> <mark class=\"mark-known\">shop</mark>",
+    "checkedAt": "2026-04-06T14:38:18.099Z",
+    "riskLabel": "Низкий",
+    "score": 5,
+    "totalMatches": 2,
+    "phraseMatches": 0,
+    "wordCount": 2,
+    "matches": [
+      {
+        "type": "word",
+        "original": "ckookie",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "shop",
+        "translation": "магазин",
+        "category": "Продажи и ecommerce",
+        "risk": "high",
+        "description": "Слово найдено в словаре маркетинговых и рекламных терминов.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 1
+      },
+      {
+        "category": "Продажи и ecommerce",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775486287469,
+    "title": "s",
+    "text": "ckookie",
+    "highlightedText": "<mark class=\"mark-unknown\">ckookie</mark>",
+    "checkedAt": "2026-04-06T14:38:07.469Z",
+    "riskLabel": "Низкий",
+    "score": 2,
+    "totalMatches": 1,
+    "phraseMatches": 0,
+    "wordCount": 1,
+    "matches": [
+      {
+        "type": "word",
+        "original": "ckookie",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775486286913,
+    "title": "s",
+    "text": "ckookie",
+    "highlightedText": "<mark class=\"mark-unknown\">ckookie</mark>",
+    "checkedAt": "2026-04-06T14:38:06.912Z",
+    "riskLabel": "Низкий",
+    "score": 2,
+    "totalMatches": 1,
+    "phraseMatches": 0,
+    "wordCount": 1,
+    "matches": [
+      {
+        "type": "word",
+        "original": "ckookie",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775486285349,
+    "title": "Проверка без названия",
+    "text": "ckookie",
+    "highlightedText": "<mark class=\"mark-unknown\">ckookie</mark>",
+    "checkedAt": "2026-04-06T14:38:05.348Z",
+    "riskLabel": "Низкий",
+    "score": 2,
+    "totalMatches": 1,
+    "phraseMatches": 0,
+    "wordCount": 1,
+    "matches": [
+      {
+        "type": "word",
+        "original": "ckookie",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775486281810,
+    "title": "Проверка без названия",
+    "text": "ckookie",
+    "highlightedText": "<mark class=\"mark-unknown\">ckookie</mark>",
+    "checkedAt": "2026-04-06T14:38:01.810Z",
+    "riskLabel": "Низкий",
+    "score": 2,
+    "totalMatches": 1,
+    "phraseMatches": 0,
+    "wordCount": 1,
+    "matches": [
+      {
+        "type": "word",
+        "original": "ckookie",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775485120155,
+    "title": "purchase_9279dd83.txt",
+    "text": "Инструкция и впн - @cookiestock_faq | Username: darkemuss | User ID: 1570194670 | Balance: 6 | Donated: 54703 | RAP: 668 | RAP Items: Brainfreeze Egg(360 R$), Catrina Dia de Muertos Mask(308 R$) | RAP Items Count: 2 | Pending: 0 | Billing: 0 | Cards: No | Premium: No | Mail: Yes | Groups: darkemuss official group | [🎩] Adopt Me!: 8892 | [UPDATE] Jailbreak: 698 | [🐱] Steal a Brainrot: 564 | [🎄CHRISTMAS] Toilet Tower Defense: 199 | [🌷] Grow a Garden 🌶️: 111 | Murder Mystery 2: 110 | Bee Swarm Simulator: 0 | Blox Fruits: 0 | Blade Ball: 0 | 🎅 Pet Simulator 99! 🎄: 0 | Da Hood 🎙️: 0 | [🐉WHOLE CAKE PART 1.80🍭] Grand Piece Online: 0 | Your Bizarre Adventure: 0 | Evade: 0 | [⛈️UPD 9] King Legacy: 0 | RIVALS: 0 | Fisch 🐟 [REWORK]: 0 | [❄️WINTER❄️] Anime Vanguards: 0 | [🌋] Fish It! 🐟: 0 | [UPD] Volleyball Legends: 0 | Escape Tsunami For Brainrots!: 0 | 10574 | _|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_CAEaAhADIhsKBGR1aWQSEzcyNTI3NTg3NTM2NDM1NTI2OTkoAw.b-SMTqFsP9eASWkzhGDj3YxdQvAHRvP2SkoTuXAAH1LbRJAWva0MOli8va89RAUuTikCHm8yUr5UE5nzqG46UnM8MnE6DqN0mTqTJDraoiUy6TpezaoYeoXwjQo-hF7tX_hCJEhj13Jw0fmQUZ_cJZqGW_aQ4nB0SRDlGer3dgYO0PWXn9nNPSaFV5z7cnscOeLqLvxKAT25-fuzYLV5mGbMTlFZ7QJEVTz0psxzaVNO1sgjnUfkG9pj3RsYNtXmgSwk95a1xzif0Prfu7mOPj3MoeBvdsVPb9xqsQga0dVHtfuc5UobFFE_lxN-zPScZ8rg_xe4sRWWF_igDFHnDrBFZUpKW3ulGrC5jG6qX5LPKmnJ53uuxW300q2_2NUSjI0a95u_GA7kJB5sqw1H1FWo0uzCmkPizkWKQnXi2Yg83Dyj8Jdax6UoxfwUelDdNIacqMcfQDGBsl1xKqRKe9pP6pjTvOBPXiINRdSJ6SvBSwZgIf_25-KH4i3HeBmYRyIUPKEb-CvObHnv1_5NAlHZKozKRwa2CJOlfaEFV1NO6gJMO3hg6NzlHa3fdBTzdM3FGu3f5es0KiMQgCzoM00dzIyDSr4QymE1fQ-UuD-cYqaaLbB9zW8NPg57s0S3HxiOdW9d18joAViTF-G2rh_eGo8",
+    "highlightedText": "Инструкция и впн - @<mark class=\"mark-unknown\">cookiestock</mark>_<mark class=\"mark-unknown\">faq</mark> | <mark class=\"mark-unknown\">Username</mark>: <mark class=\"mark-unknown\">darkemuss</mark> | <mark class=\"mark-unknown\">User</mark> <mark class=\"mark-unknown\">ID</mark>: 1570194670 | <mark class=\"mark-unknown\">Balance</mark>: 6 | <mark class=\"mark-unknown\">Donated</mark>: 54703 | <mark class=\"mark-unknown\">RAP</mark>: 668 | <mark class=\"mark-unknown\">RAP</mark> <mark class=\"mark-unknown\">Items</mark>: <mark class=\"mark-unknown\">Brainfreeze</mark> <mark class=\"mark-unknown\">Egg</mark>(360 <mark class=\"mark-unknown\">R</mark>$), <mark class=\"mark-unknown\">Catrina</mark> <mark class=\"mark-unknown\">Dia</mark> <mark class=\"mark-unknown\">de</mark> <mark class=\"mark-unknown\">Muertos</mark> <mark class=\"mark-unknown\">Mask</mark>(308 <mark class=\"mark-unknown\">R</mark>$) | <mark class=\"mark-unknown\">RAP</mark> <mark class=\"mark-unknown\">Items</mark> <mark class=\"mark-unknown\">Count</mark>: 2 | <mark class=\"mark-unknown\">Pending</mark>: 0 | <mark class=\"mark-unknown\">Billing</mark>: 0 | <mark class=\"mark-unknown\">Cards</mark>: <mark class=\"mark-unknown\">No</mark> | <mark class=\"mark-known\">Premium</mark>: <mark class=\"mark-unknown\">No</mark> | <mark class=\"mark-unknown\">Mail</mark>: <mark class=\"mark-unknown\">Yes</mark> | <mark class=\"mark-unknown\">Groups</mark>: <mark class=\"mark-unknown\">darkemuss</mark> <mark class=\"mark-unknown\">official</mark> <mark class=\"mark-unknown\">group</mark> | [🎩] <mark class=\"mark-unknown\">Adopt</mark> <mark class=\"mark-unknown\">Me</mark>!: 8892 | [<mark class=\"mark-known\">UPDATE</mark>] <mark class=\"mark-unknown\">Jailbreak</mark>: 698 | [🐱] <mark class=\"mark-unknown\">Steal</mark> <mark class=\"mark-unknown\">a</mark> <mark class=\"mark-unknown\">Brainrot</mark>: 564 | [🎄<mark class=\"mark-unknown\">CHRISTMAS</mark>] <mark class=\"mark-unknown\">Toilet</mark> <mark class=\"mark-unknown\">Tower</mark> <mark class=\"mark-unknown\">Defense</mark>: 199 | [🌷] <mark class=\"mark-unknown\">Grow</mark> <mark class=\"mark-unknown\">a</mark> <mark class=\"mark-unknown\">Garden</mark> 🌶️: 111 | <mark class=\"mark-unknown\">Murder</mark> <mark class=\"mark-unknown\">Mystery</mark> 2: 110 | <mark class=\"mark-unknown\">Bee</mark> <mark class=\"mark-unknown\">Swarm</mark> <mark class=\"mark-unknown\">Simulator</mark>: 0 | <mark class=\"mark-unknown\">Blox</mark> <mark class=\"mark-unknown\">Fruits</mark>: 0 | <mark class=\"mark-unknown\">Blade</mark> <mark class=\"mark-unknown\">Ball</mark>: 0 | 🎅 <mark class=\"mark-unknown\">Pet</mark> <mark class=\"mark-unknown\">Simulator</mark> 99! 🎄: 0 | <mark class=\"mark-unknown\">Da</mark> <mark class=\"mark-unknown\">Hood</mark> 🎙️: 0 | [🐉<mark class=\"mark-unknown\">WHOLE</mark> <mark class=\"mark-unknown\">CAKE</mark> <mark class=\"mark-unknown\">PART</mark> 1.80🍭] <mark class=\"mark-unknown\">Grand</mark> <mark class=\"mark-unknown\">Piece</mark> <mark class=\"mark-known\">Online</mark>: 0 | <mark class=\"mark-unknown\">Your</mark> <mark class=\"mark-unknown\">Bizarre</mark> <mark class=\"mark-unknown\">Adventure</mark>: 0 | <mark class=\"mark-unknown\">Evade</mark>: 0 | [⛈️<mark class=\"mark-unknown\">UPD</mark> 9] <mark class=\"mark-unknown\">King</mark> <mark class=\"mark-unknown\">Legacy</mark>: 0 | <mark class=\"mark-unknown\">RIVALS</mark>: 0 | <mark class=\"mark-unknown\">Fisch</mark> 🐟 [<mark class=\"mark-unknown\">REWORK</mark>]: 0 | [❄️<mark class=\"mark-unknown\">WINTER</mark>❄️] <mark class=\"mark-unknown\">Anime</mark> <mark class=\"mark-unknown\">Vanguards</mark>: 0 | [🌋] <mark class=\"mark-unknown\">Fish</mark> <mark class=\"mark-unknown\">It</mark>! 🐟: 0 | [<mark class=\"mark-unknown\">UPD</mark>] <mark class=\"mark-unknown\">Volleyball</mark> <mark class=\"mark-unknown\">Legends</mark>: 0 | <mark class=\"mark-unknown\">Escape</mark> <mark class=\"mark-unknown\">Tsunami</mark> <mark class=\"mark-unknown\">For</mark> <mark class=\"mark-unknown\">Brainrots</mark>!: 0 | 10574 | _|<mark class=\"mark-unknown\">WARNING</mark>:-<mark class=\"mark-unknown\">DO-NOT-SHARE-THIS</mark>.--<mark class=\"mark-unknown\">Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items</mark>.|_<mark class=\"mark-unknown\">CAEaAhADIhsKBGR1aWQSEzcyNTI3NTg3NTM2NDM1NTI2OTkoAw</mark>.<mark class=\"mark-unknown\">b-SMTqFsP9eASWkzhGDj3YxdQvAHRvP2SkoTuXAAH1LbRJAWva0MOli8va89RAUuTikCHm8yUr5UE5nzqG46UnM8MnE6DqN0mTqTJDraoiUy6TpezaoYeoXwjQo-hF7tX</mark>_<mark class=\"mark-unknown\">hCJEhj13Jw0fmQUZ</mark>_<mark class=\"mark-unknown\">cJZqGW</mark>_<mark class=\"mark-unknown\">aQ4nB0SRDlGer3dgYO0PWXn9nNPSaFV5z7cnscOeLqLvxKAT25-fuzYLV5mGbMTlFZ7QJEVTz0psxzaVNO1sgjnUfkG9pj3RsYNtXmgSwk95a1xzif0Prfu7mOPj3MoeBvdsVPb9xqsQga0dVHtfuc5UobFFE</mark>_<mark class=\"mark-unknown\">lxN-zPScZ8rg</mark>_<mark class=\"mark-unknown\">xe4sRWWF</mark>_<mark class=\"mark-unknown\">igDFHnDrBFZUpKW3ulGrC5jG6qX5LPKmnJ53uuxW300q2</mark>_2<mark class=\"mark-unknown\">NUSjI0a95u</mark>_<mark class=\"mark-unknown\">GA7kJB5sqw1H1FWo0uzCmkPizkWKQnXi2Yg83Dyj8Jdax6UoxfwUelDdNIacqMcfQDGBsl1xKqRKe9pP6pjTvOBPXiINRdSJ6SvBSwZgIf</mark>_25-<mark class=\"mark-unknown\">KH4i3HeBmYRyIUPKEb-CvObHnv1</mark>_5<mark class=\"mark-unknown\">NAlHZKozKRwa2CJOlfaEFV1NO6gJMO3hg6NzlHa3fdBTzdM3FGu3f5es0KiMQgCzoM00dzIyDSr4QymE1fQ-UuD-cYqaaLbB9zW8NPg57s0S3HxiOdW9d18joAViTF-G2rh</mark>_<mark class=\"mark-unknown\">eGo8</mark>",
+    "checkedAt": "2026-04-06T14:18:40.155Z",
+    "riskLabel": "Высокий",
+    "score": 179,
+    "totalMatches": 97,
+    "phraseMatches": 0,
+    "wordCount": 173,
+    "matches": [
+      {
+        "type": "word",
+        "original": "cookiestock",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "faq",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "username",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "darkemuss",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 2
+      },
+      {
+        "type": "word",
+        "original": "user",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "id",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "balance",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "donated",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "rap",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 3
+      },
+      {
+        "type": "word",
+        "original": "items",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 2
+      },
+      {
+        "type": "word",
+        "original": "brainfreeze",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "egg",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "r",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 2
+      },
+      {
+        "type": "word",
+        "original": "catrina",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "dia",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "de",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "muertos",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "mask",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "count",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "pending",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "billing",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "cards",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "no",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 2
+      },
+      {
+        "type": "word",
+        "original": "premium",
+        "translation": "премиальный",
+        "category": "Скидки и акции",
+        "risk": "high",
+        "description": "Слово найдено в словаре маркетинговых и рекламных терминов.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "mail",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "yes",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "groups",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "official",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "group",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "adopt",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "me",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "update",
+        "translation": "обновление",
+        "category": "Продукт и UX",
+        "risk": "high",
+        "description": "Слово найдено в словаре маркетинговых и рекламных терминов.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "jailbreak",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "steal",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "a",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 2
+      },
+      {
+        "type": "word",
+        "original": "brainrot",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "christmas",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "toilet",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "tower",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "defense",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "grow",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "garden",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "murder",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "mystery",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "bee",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "swarm",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "simulator",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 2
+      },
+      {
+        "type": "word",
+        "original": "blox",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "fruits",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "blade",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "ball",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "pet",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "da",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "hood",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "whole",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "cake",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "part",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "grand",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "piece",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "online",
+        "translation": "онлайн",
+        "category": "Технологии и сервис",
+        "risk": "medium",
+        "description": "Слово найдено в словаре маркетинговых и рекламных терминов.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "your",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "bizarre",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "adventure",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "evade",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "upd",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 2
+      },
+      {
+        "type": "word",
+        "original": "king",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "legacy",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "rivals",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "fisch",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "rework",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "winter",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "anime",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "vanguards",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "fish",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "it",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "volleyball",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "legends",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "escape",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "tsunami",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "for",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "brainrots",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "warning",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "do-not-share-this",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-robux-and-items",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "caeaahadihskbgr1awqsezcynti3ntg3ntm2ndm1nti2otkoaw",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "b-smtqfsp9easwkzhgdj3yxdqvahrvp2skotuxaah1lbrjawva0moli8va89rauutikchm8yur5ue5nzqg46unm8mne6dqn0mtqtjdraoiuy6tpezaoyeoxwjqo-hf7tx",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "hcjehj13jw0fmquz",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "cjzqgw",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "aq4nb0srdlger3dgyo0pwxn9nnpsafv5z7cnscoelqlvxkat25-fuzylv5mgbmtlfz7qjevtz0psxzavno1sgjnufkg9pj3rsyntxmgswk95a1xzif0prfu7mopj3moebvdsvpb9xqsqga0dvhtfuc5uobffe",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "lxn-zpscz8rg",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "xe4srwwf",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "igdfhndrbfzupkw3ulgrc5jg6qx5lpkmnj53uuxw300q2",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "nusji0a95u",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "ga7kjb5sqw1h1fwo0uzcmkpizkwkqnxi2yg83dyj8jdax6uoxfwuelddniacqmcfqdgbsl1xkqrke9pp6pjtvobpxiinrdsj6svbswzgif",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "kh4i3hebmyryiupkeb-cvobhnv1",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "nalhzkozkrwa2cjolfaefv1no6gjmo3hg6nzlha3fdbtzdm3fgu3f5es0kimqgczom00dziydsr4qyme1fq-uud-cyqaalbb9zw8npg57s0s3hxiodw9d18joavitf-g2rh",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "ego8",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 94
+      },
+      {
+        "category": "Скидки и акции",
+        "count": 1
+      },
+      {
+        "category": "Продукт и UX",
+        "count": 1
+      },
+      {
+        "category": "Технологии и сервис",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775484995290,
+    "title": "Проверка без названия",
+    "text": "this brand is good for its beautiful interior and very good cafes, in my opinion it is one of the best beautiful and bright scenes in our city",
+    "highlightedText": "<mark class=\"mark-unknown\">this</mark> <mark class=\"mark-known\">brand</mark> <mark class=\"mark-unknown\">is</mark> <mark class=\"mark-unknown\">good</mark> <mark class=\"mark-unknown\">for</mark> <mark class=\"mark-unknown\">its</mark> <mark class=\"mark-unknown\">beautiful</mark> <mark class=\"mark-known\">interior</mark> <mark class=\"mark-unknown\">and</mark> <mark class=\"mark-unknown\">very</mark> <mark class=\"mark-unknown\">good</mark> <mark class=\"mark-unknown\">cafes</mark>, <mark class=\"mark-unknown\">in</mark> <mark class=\"mark-unknown\">my</mark> <mark class=\"mark-unknown\">opinion</mark> <mark class=\"mark-unknown\">it</mark> <mark class=\"mark-unknown\">is</mark> <mark class=\"mark-unknown\">one</mark> <mark class=\"mark-unknown\">of</mark> <mark class=\"mark-unknown\">the</mark> <mark class=\"mark-known\">best</mark> <mark class=\"mark-unknown\">beautiful</mark> <mark class=\"mark-unknown\">and</mark> <mark class=\"mark-unknown\">bright</mark> <mark class=\"mark-unknown\">scenes</mark> <mark class=\"mark-unknown\">in</mark> <mark class=\"mark-unknown\">our</mark> <mark class=\"mark-unknown\">city</mark>",
+    "checkedAt": "2026-04-06T14:16:35.290Z",
+    "riskLabel": "Высокий",
+    "score": 38,
+    "totalMatches": 23,
+    "phraseMatches": 0,
+    "wordCount": 28,
+    "matches": [
+      {
+        "type": "word",
+        "original": "this",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "brand",
+        "translation": "бренд",
+        "category": "Маркетинг и стратегия",
+        "risk": "high",
+        "description": "Слово найдено в словаре маркетинговых и рекламных терминов.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "is",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 2
+      },
+      {
+        "type": "word",
+        "original": "good",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 2
+      },
+      {
+        "type": "word",
+        "original": "for",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "its",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "beautiful",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 2
+      },
+      {
+        "type": "word",
+        "original": "interior",
+        "translation": "интерьер",
+        "category": "Бьюти, мода, лайфстайл",
+        "risk": "high",
+        "description": "Слово найдено в словаре маркетинговых и рекламных терминов.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "and",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 2
+      },
+      {
+        "type": "word",
+        "original": "very",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "cafes",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "in",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 2
+      },
+      {
+        "type": "word",
+        "original": "my",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "opinion",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "it",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "one",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "of",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "the",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "best",
+        "translation": "лучший",
+        "category": "Скидки и акции",
+        "risk": "high",
+        "description": "Слово найдено в словаре маркетинговых и рекламных терминов.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "bright",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "scenes",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "our",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "low",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      },
+      {
+        "type": "word",
+        "original": "city",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 20
+      },
+      {
+        "category": "Маркетинг и стратегия",
+        "count": 1
+      },
+      {
+        "category": "Бьюти, мода, лайфстайл",
+        "count": 1
+      },
+      {
+        "category": "Скидки и акции",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775484578380,
+    "title": "account",
+    "text": "account",
+    "highlightedText": "<mark class=\"mark-known\">account</mark>",
+    "checkedAt": "2026-04-06T14:09:38.380Z",
+    "riskLabel": "Низкий",
+    "score": 3,
+    "totalMatches": 1,
+    "phraseMatches": 0,
+    "wordCount": 1,
+    "matches": [
+      {
+        "type": "word",
+        "original": "account",
+        "translation": "аккаунт",
+        "category": "Продукт и UX",
+        "risk": "high",
+        "description": "Слово найдено в словаре маркетинговых и рекламных терминов.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Продукт и UX",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 1775484235596,
+    "title": "technology",
+    "text": "technology",
+    "highlightedText": "<mark class=\"mark-unknown\">technology</mark>",
+    "checkedAt": "2026-04-06T14:03:55.596Z",
+    "riskLabel": "Низкий",
+    "score": 2,
+    "totalMatches": 1,
+    "phraseMatches": 0,
+    "wordCount": 1,
+    "matches": [
+      {
+        "type": "word",
+        "original": "technology",
+        "translation": "Проверьте контекст и замените русским аналогом",
+        "category": "Неизвестное слово на латинице",
+        "risk": "medium",
+        "description": "Слово написано латиницей и отсутствует в словаре. Его стоит проверить вручную.",
+        "count": 1
+      }
+    ],
+    "topCategories": [
+      {
+        "category": "Неизвестное слово на латинице",
+        "count": 1
+      }
+    ]
+  }
+]
